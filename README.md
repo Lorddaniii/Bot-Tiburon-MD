@@ -1,7 +1,7 @@
 <h1 align="center">‧  Bot Tiburon MD ‧
 </p>
 <p>
-        <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAgjuqwFrqb_GhzLhruDIRN_pUDHeBtbQLXfFUtqvKmHKrNJtRP2EmaphK&s=10">
+        <img src= "https://files.yande.re/sample/b8ccadce33bca14da35200ac4cba7a0d/yande.re%20693163%20sample%20gawr_gura%20hololive%20hololive_english%20luzzi_%28milllim%29%20see_through%20tail.jpg">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
