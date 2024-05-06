@@ -3,7 +3,7 @@ import fetch from "node-fetch";
 const regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/([^\/]+)(?:\/tree\/([^\/]+)|\/archive\/([^\/]+))?(?:\.git)?$/i;
 
 let handler = async (m, { args, usedPrefix, command }) => {
-  if (!args[0]) throw `[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝚄𝙵𝙸𝙲𝙸𝙴𝙽𝚃𝙴 𝚄𝙽 𝙴𝙽𝙻𝙰𝙲𝙴 𝙳𝙴 𝙶𝙸𝚃𝙷𝚄𝙱, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾: ${usedPrefix + command} https://github.com/DIEGO-OFC/Bot-Tiburon-MD*`;
+  if (!args[0]) throw `[❗𝐈𝐍𝐅𝐎❗] 𝙸𝙽𝚂𝚄𝙵𝙸𝙲𝙸𝙴𝙽𝚃𝙴 𝚄𝙽 𝙴𝙽𝙻𝙰𝙲𝙴 𝙳𝙴 𝙶𝙸𝚃𝙷𝚄𝙱, 𝙴𝙹𝙴𝙼𝙿𝙻𝙾: ${usedPrefix + command} https://github.com/lorddaniii/Bot-Tiburon-MD*`;
   
   const match = args[0].match(regex);
   if (!match) throw "🦈 El enlace es incorrecto!";
