@@ -16,8 +16,8 @@ global.owner = [['584125778026']
 //[número, Nombre de creador/dueño?, Modo programador?]
 ] //Pon tu número aquí 
 global.smods = []
-global.mods = ['595983186566'] // números de moderadores aquí
-global.prems = ['595983186566'] // numeros premium aquí 
+global.mods = ['51942324318'] // números de moderadores aquí
+global.prems = ['51942324318'] // numeros premium aquí 
 global.APIs = { // Sitios de APIs
   // nombre: 'https://sitioweb'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -56,7 +56,7 @@ global.imagen1 = fs.readFileSync('./menu2.jpg')
 
 // Sticker WM / Info del sticker 
 global.packname = 'Bot Tiburón🦈'
-global.author = 'DIEGO-OFC'
+global.author = 'lorddaniii'
 global.wm = 'Bot Tiburón🦈'
 
 global.multiplier = 100 // más alto el número, más difícil se volverá subir de nivel
