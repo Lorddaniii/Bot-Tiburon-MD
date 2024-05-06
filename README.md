@@ -1,4 +1,4 @@
-<h1 align="center">‧ ⭐ Nezuko - MD ⭐ ‧
+<h1 align="center">‧  Bot Tiburon MD ‧
 </p>
 <p>
         <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGM4fm6rVtOqt2J4AZb949NaQjIH8cmhnzaQ&usqp=CAU">
