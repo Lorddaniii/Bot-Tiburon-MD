@@ -1,7 +1,7 @@
 <h1 align="center">‧  Bot Tiburon MD ‧
 </p>
 <p>
-        <img src= "https://sites.google.com/view/anime2tiburon/home">
+        <img src= "https://sites.google.com/view/anime2tiburon">
     </p>
     <p align="center">
         <a href="#"><img title="simple-whatsapp-bot" src="https://img.shields.io/badge/-SIMPLE--WHATSAPP--BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
