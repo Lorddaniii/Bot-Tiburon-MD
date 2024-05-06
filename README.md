@@ -10,7 +10,13 @@
         <a href="https://github.com/Lorddaniii"><img title="Author"    src="https://img.shields.io/badge/Author-Daniii-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
-## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herramientas
+
+            
+            
+            
+            
+            
+            ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herramientas
 
 ```bash
 > Termux
