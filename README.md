@@ -16,14 +16,7 @@
             
             
             
-            ## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herramientas
-
-```bash
-> Termux
-> WhatsApp
-> 2 celulares o PC
-```
-- Descarga termux dando clic [aqui](https://f-droid.org/repo/com.termux_118.apk)
+            
 
 ---------
 
