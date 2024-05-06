@@ -12,10 +12,10 @@ import { platform } from 'process'
  
 global.__filename = function filename(pathURL = import.meta.url, rmPrefix = platform !== 'win32') { return rmPrefix ? /file:\/\/\//.test(pathURL) ? fileURLToPath(pathURL) : pathURL : pathToFileURL(pathURL).toString() }; global.__dirname = function dirname(pathURL) { return path.dirname(global.__filename(pathURL, true)) }; global.__require = function require(dir = import.meta.url) { return createRequire(dir) } 
 const __dirname = global.__dirname(import.meta.url)
-global.owner = [['584125778026']
+global.owner = [['51942324318']
 //[número, Nombre de creador/dueño?, Modo programador?]
 ] //Pon tu número aquí 
-global.smods = []
+global.smods = ['51942324318']
 global.mods = ['51942324318'] // números de moderadores aquí
 global.prems = ['51942324318'] // numeros premium aquí 
 global.APIs = { // Sitios de APIs
